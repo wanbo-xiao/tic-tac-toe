@@ -66,3 +66,16 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+
+
+
+Bob
+=======
+npm install node-sass
+npm install react-bootstrap bootstrap
+npm install @material-ui/core
+npm install typeface-roboto --save
+npm install @material-ui/icons
